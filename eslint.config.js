@@ -33,6 +33,8 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
+      "react/jsx-key": "warn",
+    "react/prop-types": "warn"
     },
   },
 ]
